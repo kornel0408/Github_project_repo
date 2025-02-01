@@ -1,2 +1,4 @@
 welcome to my project
 i am going to work on git and git hub project
+new branch is added
+which is named by develop
